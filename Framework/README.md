@@ -40,13 +40,13 @@ Project is created with:
 > **Clone the Source (from the `main` branch) and `cd ` into the directory.**
 
 ```sh
-git clone -b https://github.com/divan1920/ClothDonationApp.git
+https://github.com/Jeelesh2762/Cloth-Donation-System.git
 cd WDDN_DotNet_Project_CE031_CE034
 ```
 
 ### Step to run Cloth Donation App in local machine
 
-> **Start Visual Studio in `WDDN_DotNet_Project_CE031_CE034`**
+> **Start Visual Studio in `Framework/WDDN_DotNet_Project_CE031_CE034`**
 
 ```sh
 Right Click in Current Folder & Start With Visual Studio
